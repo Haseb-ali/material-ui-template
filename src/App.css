@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/* *
+.App {
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4em;
+  background-color: royalblue;
+  color:#fff; 
+}
+#root{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  height:100vh;
+  background-color:royalblue;
+  color:#fff;
+  
+} */
+body{
+  overflow-X: hidden!important;
+}
+#root{
+  height:100vh;
+  background-color:royalblue;
+}
